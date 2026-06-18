@@ -5,7 +5,7 @@
 
 Panning and tilting are fundamental camera movements that mimic the natural motion of the human head, allowing the camera to capture wide spaces or follow action without changing its physical location. A pan moves the camera horizontally (left or right), while a tilt moves it vertically (up or down).
 
-![image](/home/mai/Downloads/panning-tilting.png)
+![image alt](https://github.com/maiwagdy/Panning-and-Tilting/blob/84625ea19852bd3f3a2287201500bb179ed30745/panning-tilting.png)
 
 ## Problem 1 
 
