@@ -60,7 +60,7 @@ Determines the direction and magnitude of the tilt movement.
 To find the physical angle change **Δθ** needed to center the target,
 use this formula for both the **pan** & **tilt** axes:
 
-           **Required angle step = Pixel error × (Feied of view / Total resolution)**
+           Required angle step = Pixel error × (Feied of view / Total resolution)
 
 ### The Components Explained:
 
