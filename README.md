@@ -42,6 +42,8 @@ Let the target's center be (X*target*, Y*target*), and the image's center detect
      ∴ Error{x} = X(target) - X(center)
 
      ∴ Error{y} = Y(target) - Y(center)
+
+![image alt](https://github.com/maiwagdy/Panning-and-Tilting/blob/3ed256746c19518504c4c21dd3c36c41dbf36409/visualizing-the-correction-matrix.png)
     
 where, 
 
