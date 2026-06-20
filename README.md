@@ -39,9 +39,9 @@ To center a target exactly in a camera's frame using panning and tilting, the sy
 
 Let the target's center be (X*target*, Y*target*), and the image's center detected by the camera is (X*center*, Y*center*)
 
-     ∴ Error{x} = X(target) - X(target)
+     ∴ Error{x} = X(target) - X(center)
 
-     ∴ Error{y} = Y(target) - Y(target)
+     ∴ Error{y} = Y(target) - Y(center)
     
 where, 
 
